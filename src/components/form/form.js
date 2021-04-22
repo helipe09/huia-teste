@@ -49,10 +49,7 @@ export default function Form() {
             <h3>CONTINUE</h3>
           </button>
         </form>
-        <h4>CANAL DE COMPRAS EXCLUSIVO PARA CLASSE MÉDIA</h4>
-        {/* <Descricao>
-          <h3>CANAL DE COMPRAS EXCLUSIVO PARA CLASSE MÉDIA</h3>
-        </Descricao> */}
+        <h4>CANAL DE COMPRAS EXCLUSIVO PARA CLASSE MÉDICA</h4>
       </Wrapper>
     </>
   );
